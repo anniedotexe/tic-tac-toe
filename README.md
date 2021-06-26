@@ -2,14 +2,14 @@
 
 This is a simple tic-tac-toe game written in HTML, CSS, and JavaScript.
 
-**LIVE DEMO** - [.anniew.xyz]() OR [.netlify.app]()
+**LIVE DEMO** - [tic-tac-toe.anniew.xyz](https://tic-tac-toe.anniew.xyz/) OR [tic-tac-toe-annie.netlify.app](https://tic-tac-toe-annie.netlify.app/)
 
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white"/>
     <img alt="Open Source? Yes!" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/>
-    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/e5a60525-2646-408e-95de-b591af8a1cec/deploy-status"/>
+    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/bc81f897-872e-4989-99ee-216a3b02569b/deploy-status"/>
 
 </p>
 
