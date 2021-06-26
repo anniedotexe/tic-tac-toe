@@ -1,6 +1,6 @@
 # Simple TIC-TAC-TOE Game
 
-This is a simple tic-tac-toe game written in HTML, CSS, and JavaScript.
+This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and JavaScript.
 
 **LIVE DEMO** - [tic-tac-toe.anniew.xyz](https://tic-tac-toe.anniew.xyz/) OR [tic-tac-toe-annie.netlify.app](https://tic-tac-toe-annie.netlify.app/)
 
