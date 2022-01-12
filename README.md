@@ -24,7 +24,7 @@ This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and Jav
   - [Color Scheme](#color-scheme)
 - [Built With](#built-with)
 - [Contributing](#contributing)
-- [Creator / Maintainer](#creator-maintainer)
+- [Creator / Maintainer](#creator--maintainer)
 - [Acknowledgments](#acknowledgments)
 
 ---
