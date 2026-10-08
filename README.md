@@ -2,7 +2,7 @@
 
 This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and JavaScript.
 
-**LIVE DEMO** - [tic-tac-toe.anniew.xyz](https://tic-tac-toe.anniew.xyz/) OR [tic-tac-toe-annie.netlify.app](https://tic-tac-toe-annie.netlify.app/)
+**LIVE DEMO** - https://tic-tac-toe-annie.netlify.app/
 
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
